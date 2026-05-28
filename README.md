@@ -15,7 +15,7 @@ Strategia wyraźnie pokonała rynek (regresja out-of-sample) przy niskim poziomi
 ---
 
 ## Interaktywny Wykres i Prezentacja
-**[ZOBACZ INTERAKTYWNY WYKRES TRANSAKCJI](TUTAJ_WKLEJ_LINK_DO_GITHUB_PAGES)**  
+**[ZOBACZ INTERAKTYWNY WYKRES TRANSAKCJI]([https://majaskoz.github.io/aapl-prophet-backtesting/])**  
 *(Pełna wizualizacja krzywej kapitału, historii pozycji oraz dynamicznych poziomów SL/TP).*
 
 ---
