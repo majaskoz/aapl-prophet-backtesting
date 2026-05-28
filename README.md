@@ -1,4 +1,3 @@
-https://colab.research.google.com/drive/1xNtINMALNvVCCXZ4tvjT5EKvGnZE6xk7?usp=sharing
 # Algorytmiczna Strategia Inwestycyjna: Apple Inc. (AAPL)
 
 Projekt swingowej strategii inwestycyjnej dla spółki **Apple (AAPL)** łączący prognozowanie szeregów czasowych (**Meta Prophet**) z technicznymi filtrami momentum i zmienności (RSI, SMA, ATR).
